@@ -1,4 +1,7 @@
-# Desafio-Github-DIO-Markdown
+# Desafio-Github-DIO
+
+Este é um desafio que consiste na criação de um repositóro de apresentação com imagens, links, tabelas e informações profissionais, em linguagem Markdown. Também consiste na publicação e interação no Github utilizando Issues, Forks, Commits, Branches e Pull Requests.
+
 ## Sejam Bem vindos ao meu Repositório Pessoal !!!
 
 ![Gif do gatinho](https://media.tenor.com/8wBCqZH60U8AAAAM/computer-cat.gif)
