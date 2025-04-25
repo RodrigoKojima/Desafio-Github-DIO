@@ -29,5 +29,6 @@ ____
 
 ![Rodrigo Kojima GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoKojima&show_icons=true&theme=radical)
 
+<img loading="lazy" height="180cm" src="https://github-readme-stats.vercel.app/api?username=RodrigoKojima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 
